@@ -8,7 +8,7 @@
 
 A little about me: 
 - 🇧🇷 Salvador-BA, Brazil.
-- 🔭 I work with Java. 
+- 🔭 I work with Java and its related technologies
 - 🌱 I always want to learn how to improve my skills in Java.
 - 📫 How to reach me: You can contact me through the options present in the "Social Media" section at the end of my profile.
 
