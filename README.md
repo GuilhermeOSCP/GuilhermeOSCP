@@ -18,7 +18,7 @@ A little about me:
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeOSCP&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
   
-### 💡 Languages and Skills
+### 💡 Languages and Skills:
 <div>
   <a href="https://github.com/GuilhermeOSCP">  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeOSCP&layout=compact&langs_count=7&theme=dark"/>
