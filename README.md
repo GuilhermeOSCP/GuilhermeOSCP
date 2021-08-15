@@ -10,7 +10,7 @@ A little about me:
 - 🇧🇷 Salvador-BA, Brazil.
 - 🔭 I work with Java. 
 - 🌱 I always want to learn how to improve my skills in Java.
-- 📫 How to reach me: Send me an email at my professional address guilhermeoscp@gmail.com and I will reply as soon as possible.
+- 📫 How to reach me: You can contact me through the options present in the "Social Media" section at the end of my profile.
 
 ### 📈 Stats:
 <div>
